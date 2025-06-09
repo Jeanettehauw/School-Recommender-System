@@ -1,0 +1,1 @@
+streamlit run app_tfidf_cosine.py
